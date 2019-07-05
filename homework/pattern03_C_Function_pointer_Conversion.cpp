@@ -2264,6 +2264,7 @@ void printData(double* RATE, int* MIN_BALANCE)
 #endif
 // 나. 함수 포인터 호출 부분을 배열로 작성한 코드
 
+//에러발생
 #if 01
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>

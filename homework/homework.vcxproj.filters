@@ -18,5 +18,14 @@
     <ClCompile Include="pattern03_C_Function_pointer_Conversion.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PatternStep01_ArrayAndPointer_00_Practice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PatternStep02_ArrayAndPointer(structure)_00_Practice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PatternStep04_ArrayAndPointer(Class)_00_Practice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -144,6 +144,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="pattern03_C_Function_pointer_Conversion.cpp" />
+    <ClCompile Include="PatternStep01_ArrayAndPointer_00_Practice.cpp" />
+    <ClCompile Include="PatternStep02_ArrayAndPointer(structure)_00_Practice.cpp" />
+    <ClCompile Include="PatternStep04_ArrayAndPointer(Class)_00_Practice.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
